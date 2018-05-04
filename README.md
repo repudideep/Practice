@@ -1,3 +1,3 @@
-# Ruby on Rails Tutorial: first application
+# Ruby on Rails Tutorial: sample application
 
 This is the first application
